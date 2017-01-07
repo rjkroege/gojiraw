@@ -19,7 +19,7 @@ import (
 	"image/color"
 	"log"
 
-	"github.com/go-gl/gl"
+	"github.com/go-gl/gl/v4.1-core/gl"
 	"github.com/go-gl/glu"
 )
 

@@ -21,7 +21,7 @@ import (
 
 	"github.com/google/gojiraw/content"
 	"github.com/google/gojiraw/graphics"
-	"github.com/go-gl/gl"
+	"github.com/go-gl/gl/v4.1-core/gl"
 
 	glfw "github.com/go-gl/glfw3/v3.0/glfw"
 )

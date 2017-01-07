@@ -20,7 +20,7 @@ import (
 
 	"github.com/google/gojiraw/content/dom"
 	"github.com/google/gojiraw/graphics"
-	"github.com/go-gl/gl"
+	"github.com/go-gl/gl/v4.1-core/gl"
 )
 
 // Frame is the Gojira equivalent of a RenderFrame in Chrome?
